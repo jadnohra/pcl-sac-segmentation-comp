@@ -6,4 +6,4 @@ To run the notebook, use `bazel run notebooks` and select `ground_segment_1.ipyn
 
 ![](./screen1.png)
 
-The full capabilities of the PCL segmentation library is documented at https://pcl.readthedocs.io/en/latest/planar_segmentation.html. A few of the parameters are exposed as interactive sliders. It is easy to add parameters depending on interest.
+The full capabilities of the PCL segmentation library are documented at https://pcl.readthedocs.io/en/latest/planar_segmentation.html. A few of the parameters are exposed as interactive sliders. It is easy to add parameters depending on interest.
